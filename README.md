@@ -8,7 +8,7 @@ In folder-ul exercitii_fpga se gasesc exercitiile pe care le-am facut de-a lungu
 Voi actualiza coding style-ul si voi incerca sa aduc imbunatatiri. 
 Pentru a utiliza codul este nevoie de un mediu de programare pt FPGA-uri cum ar fi Xilinx ISE, si un fisier de constrangeri. 
 
-
+Am lucrat impreuna cu colegul meu, Andrei Critsea
 
 
 
